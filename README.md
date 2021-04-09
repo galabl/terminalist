@@ -8,7 +8,11 @@
 
 ### Before running
 3. Copy `.env.example` to `.env`
-4. Copy `sshclient.db.initial` to `sshclient.db` 
+4. Copy `sshclient.db.initial` to `sshclient.db`
+
+### Contributing
+
+Feel free to fork the repo, ask any questions or report a bug on [Discord](https://discord.gg/H5y5AyTHmQ)
 
 ### About
 
