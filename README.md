@@ -19,7 +19,7 @@ Terminalist is an improved version of SSHClient(at least I think so), that now w
 2. Connection groups
 3. Database sync using Dropbox(More about this later in README)
 
-###Dropbox sync:
+### Dropbox sync:
 
 1. You will need to have your own Dropbox account, register for free [here](https://www.dropbox.com/register)
 2. Go to https://www.dropbox.com/developers/apps/create
@@ -36,7 +36,7 @@ Terminalist is an improved version of SSHClient(at least I think so), that now w
 - [ ] Add ability to sync ssh keys using dropbox
 - [ ] Implement other sync methods (Google Drive, etc. what other people need)
 
-###Screenshots:
+### Screenshots:
 
 ![Alt text](screenshots/terminalist-1.png "Screenshot 1")
 
