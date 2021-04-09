@@ -6,6 +6,10 @@
 - [ ] MacOS (not tested, not sure is VTE is compatible w/ Mac)
 - [ ] Windows ( Probably will never be supported - VTE incompatible )
 
+### Before running
+3. Copy `.env.example` to `.env`
+4. Copy `sshclient.db.initial` to `sshclient.db` 
+
 ### About
 
 Terminalist is a Python3 based application for managing your SSH connections.
