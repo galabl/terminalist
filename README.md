@@ -40,8 +40,12 @@ Terminalist is an improved version of SSHClient(at least I think so), that now w
 
 ![Alt text](screenshots/terminalist-1.png "Screenshot 1")
 
+![Alt text](screenshots/terminalist-5.png "Screenshot 5")
+
 ![Alt text](screenshots/terminalist-2.png "Screenshot 2")
 
 ![Alt text](screenshots/terminalist-3.png "Screenshot 3")
 
 ![Alt text](screenshots/terminalist-4.png "Screenshot 4")
+
+![Alt text](screenshots/terminalist-6.png "Screenshot 6")
