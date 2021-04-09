@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated with glade 3.38.2 -->
+<interface>
+  <requires lib="gtk+" version="3.12"/>
+  <object class="GtkAboutDialog" id="about_window">
+    <property name="can-focus">False</property>
+    <property name="resizable">False</property>
+    <property name="modal">True</property>
+    <property name="window-position">center</property>
+    <property name="icon">images/ssh.png</property>
+    <property name="type-hint">dialog</property>
+    <property name="deletable">False</property>
+    <property name="program-name">Terminalist</property>
+    <property name="version">1.0</property>
+    <property name="comments" translatable="yes">Terminalist is a little software to help you to manage you SSH connections.</property>
+    <property name="website">#</property>
+    <property name="authors">Dragan Galic &lt;galicdragan6@gmail.com&gt;
+Vitor Villar &lt;vitor.luis98@gmail.com&gt;</property>
+    <property name="logo-icon-name">utilities-terminal</property>
+    <property name="license-type">gpl-3-0</property>
+    <child internal-child="vbox">
+      <object class="GtkBox" id="box_main">
+        <property name="can-focus">False</property>
+        <property name="orientation">vertical</property>
+        <property name="spacing">2</property>
+        <child internal-child="action_area">
+          <object class="GtkButtonBox" id="button_box">
+            <property name="can-focus">False</property>
+            <property name="layout-style">end</property>
+          </object>
+          <packing>
+            <property name="expand">False</property>
+            <property name="fill">False</property>
+            <property name="position">0</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkLabel" id="lbl_created">
+            <property name="visible">True</property>
+            <property name="can-focus">False</property>
+            <property name="label" translatable="yes">Created By Dragan Galic &lt;galicdragan6@gmail.com&gt;
+Forked from &lt;http://vitorluis.github.io/SSHClient/&gt;</property>
+            <property name="justify">center</property>
+          </object>
+          <packing>
+            <property name="expand">False</property>
+            <property name="fill">True</property>
+            <property name="position">2</property>
+          </packing>
+        </child>
+      </object>
+    </child>
+  </object>
+</interface>
